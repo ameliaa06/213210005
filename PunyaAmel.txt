@@ -1,6 +1,8 @@
-Harapannya apa ditahun 2023 :
-1.Lulus Kuliah
-2.Bekerja disuatu perusahaan ternama
-3.Ingin membahagiakan orang tua
-4.ingin membiayai kuliah adek sampai selesai
-5.Bisa menjadi kebanggan keluarga
+<html>
+<head>
+<title.HTML di GITHUB</title>
+</head>
+<body>
+Selamat Datang di Web Punya Amel
+</body>
+</html>
